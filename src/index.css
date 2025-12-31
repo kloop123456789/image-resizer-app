@@ -1,0 +1,14 @@
+@import './styles/variables.css';
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: var(--accent-primary);
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}
